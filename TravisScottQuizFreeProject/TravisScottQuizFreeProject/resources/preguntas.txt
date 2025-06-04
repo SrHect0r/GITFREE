@@ -1,0 +1,40 @@
+album;cual es el nombre del primer mixtape de travis scott;owl pharaoh;rodeo;astroworld;days before rodeo;0
+album;que album contiene el tema stargazing;astroworld;rodeo;utopia;jackboys;1
+album;que album fue lanzado en 2023?;utopia;astroworld;rodeo;jackboys;4
+album;que album de travis scott fue lanzado en 2015?;rodeo;astroworld;utopia;huncho jack, jack huncho;1
+album;en que album aparece la cancion goosebumps;birds in the trap sing mcknight;astroworld;rodeo;utopia;2
+album;que album tiene como portada un parque de diversiones;astroworld;rodeo;jackboys;days before rodeo;1
+album;cual de estos albumes es una colaboracion con quavo;huncho jack, jack huncho;jackboys;owl pharaoh;utopia;3
+album;que album incluye la cancion fein;utopia;astroworld;birds in the trap;rodeo;1
+album;cual es el album mas experimental de travis scott segun los criticos?;utopia;rodeo;jackboys;astroworld;3
+album;que album fue producido junto a mike dean?;astroworld;rodeo;huncho jack, jack huncho;utopia;2
+collab;con que artista lanzo el tema pick up the phone?;young thug;kanye west;drake;future;2
+collab;con que artista colaboro en fair trade?;drake;lil baby;21 savage;don toliver;4
+collab;quien aparece en el tema mafia?;j. cole;kendrick lamar;future;post malone;3
+collab;con que artista lanzo franchise?;young thug;drake;post malone;sza;2
+collab;quien colabora en sicko mode?;drake;21 savage;future;the weeknd;2
+collab;con quien lanzo praise god?;kanye west;lil uzi vert;baby keem;trippie redd;1
+collab;en que tema participa rosalia?;highest in the room (remix);mafia;pick up the phone;franchise;2
+collab;con que productor trabaja frecuentemente?;mike dean;timbaland;pharrell;dr. dre;4
+collab;que artista participa en stop trying to be god?;james blake;drake;travis barker;kanye west;2
+collab;en que cancion colabora the weeknd?;wake up;sicko mode;mafia;franchise;3
+vida;cual es el nombre real de travis scott?;jacques webster;scott travis;michael la flame;jacques lamar;2
+vida;con que celebridad tuvo una hija?;kylie jenner;kim kardashian;ariana grande;zendaya;4
+vida;como se llama su hija?;stormi;true;blue ivy;north;3
+vida;donde nacio travis scott?;houston;dallas;atlanta;chicago;1
+vida;que carrera estudio brevemente en la universidad?;arquitectura;ingenieria;musica;arte;2
+vida;cual es su apodo?;la flame;scotty;cactus kid;t-scott;0
+vida;que instrumento tocaba desde joven?;piano;guitarra;saxofon;bateria;2
+vida;que deporte practicaba en secundaria?;futbol americano;basquetbol;beisbol;tenis;0
+vida;cual es su color favorito?;negro;rojo;azul;verde;1
+vida;cual es su signo zodiacal?;tauro;geminis;leo;piscis;0
+canciones;que cancion comienza con astro... yeah?;sicko mode;goosebumps;antidote;90210;0
+canciones;que tema incluye a drake en tres actos?;sicko mode;franchise;mafia;goosebumps;2
+canciones;que cancion fue nominada al grammy en 2019?;sicko mode;goosebumps;highest in the room;antidote;
+canciones;en que cancion colabora the weeknd y aparece james blake?;wake up;franchise;mafia;stop trying to be god;
+canciones;cual fue su primer gran exito viral?;antidote;90210;mamacita;sicko mode;4
+canciones;que tema lanza tras su regreso en 2023;k-pop;fein;modern jam;topia twins;2
+canciones;que cancion contiene el verso i get those goosebumps every time;goosebumps;sicko mode;antidote;mafia;1
+canciones;que cancion tiene una intro hablada por su madre;stop trying to be god;stargazing;mafia;circus maximus;1
+canciones;cual es la cancion mas reproducida de travis en spotify;sicko mode;goosebumps;antidote;franchise;2
+canciones;en que cancion aparece kid cudi en utopia;looove;fein;modern jam;delresto (echoes);3
